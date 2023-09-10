@@ -13,3 +13,9 @@
 ### https://developerexperience.io/articles/poor-code-quality 
 <br> What is poor code quality
 <br> Reasons of the poor code quality
+## 3.
+### https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1
+<br> Relevance of PHP
+<br> PHP code quality tools
+<br> Code review and analysis
+ 
