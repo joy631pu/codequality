@@ -18,4 +18,12 @@
 <br> Relevance of PHP
 <br> PHP code quality tools
 <br> Code review and analysis
+## 4.
+### https://stepsize.com/blog/the-engineers-complete-guide-to-code-quality 
+<br> What is code quality
+<br> Documentation, code standards, and style guides
+<br> The importance of code reviews
+<br> Tools to review code quality
+<br> Code refactoring
+<br> Wrapping up
  
