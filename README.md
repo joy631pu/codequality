@@ -28,4 +28,6 @@
 <br> Wrapping up
 ## Comparison
 ### In article 1, overall the basic topics of <b>quality code</b> is discussed whereas article 2 is mainly focused on the definition of poor code quality and reasons of the poor code quality. In article 3, some of the most important code quality topics regarding PHP are detailed. As for example: Code analysis, Automated testing, Code style enforcement, Performance analysis, Security vulnerability detection etc. are studied broadly.Finally, in article 4, what guidelines should a software engineer follow are listed. In this article, markers of the good code are listed. Besides, the importance of code reviews, code refactoring, wrapping up code, documentation, code standards, and style guides are discussed largely.
+## Evaluation
+### In my opinion, I did all of the necessary tasks as per requirements of the assignment. I read through all of the four articles and include the checklists. I also compared the checklists of different articles. I will give myself 3 out of 4.
  
